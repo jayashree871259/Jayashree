@@ -1,3 +1,3 @@
-# Welcome to git and github class
+# Welcome to git & github class
  
  # Day_1 in progress
