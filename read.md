@@ -1,4 +1,4 @@
 # Welcome to git & github class
  
-# Day_1  inprogress
+# Day_1 is completed
 # Day_2 is inprogress
